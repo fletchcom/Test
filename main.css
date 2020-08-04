@@ -3,6 +3,14 @@ p{
   color: blue;
 }
 
+ul{
+  color: blue;
+}
+
+li{
+  color: blue;
+}
+
 /* All paragraph elements with a class attribute of danger will have a red font */
 p.danger{
   color: red;
@@ -69,7 +77,8 @@ a.indigo:visited,{
 /* overrides everything */
 #home{
   color: #efefef; 
-}.avatar {
+}
+.avatar {
   border-radius: 50%; 
   float: left; 
   margin-right: 1em;
